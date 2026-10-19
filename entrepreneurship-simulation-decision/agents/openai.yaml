@@ -1,0 +1,4 @@
+interface:
+  display_name: "全国创业决策仿真"
+  short_description: "根据市场背景和历史竞争决策生成完整、可核验的创业仿真填报方案"
+  default_prompt: "Use $entrepreneurship-simulation-decision to analyze the current simulation period and produce a complete decision-form recommendation."
